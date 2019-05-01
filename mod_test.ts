@@ -1,4 +1,4 @@
-import { test,runIfMain  } from "https://deno.land/std/testing/mod.ts";
+import { test, runIfMain } from "https://deno.land/std/testing/mod.ts";
 import { assert, assertEquals } from "https://deno.land/std/testing/asserts.ts";
 import { validate, format, caseStyle } from "./mod.ts";
 
