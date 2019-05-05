@@ -1,5 +1,7 @@
 # Deno Case Style
 
+[![Build Status](https://travis-ci.org/zekth/deno-case-style.svg?branch=master)](https://travis-ci.org/zekth/deno-case-style)
+
 A string validator and formater for case Style
 
 ## Validate
