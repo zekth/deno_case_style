@@ -1,6 +1,4 @@
-# Deno Case Style
-
-[![Build Status](https://travis-ci.org/zekth/deno-case-style.svg?branch=master)](https://travis-ci.org/zekth/deno-case-style)
+# Deno Case Style [![Build Status](https://travis-ci.org/zekth/deno_case_style.svg?branch=master)](https://travis-ci.org/zekth/deno_case_style)
 
 A string validator and formater for case Style
 
